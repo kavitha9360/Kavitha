@@ -1,0 +1,30 @@
+
+
+*
+{
+    background-color: pink;
+}
+.s1
+{
+    margin: 100px;
+    border: solid;
+    padding-left: 500px;
+    background-color: pink;
+    border-radius: 10px;
+    font-style: italic
+    
+}
+img
+{
+  border-style: inset;
+  border-radius: 20px;
+}
+.p1
+{
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+    font-weight: bold;
+}
+
+

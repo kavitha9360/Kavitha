@@ -1,0 +1,94 @@
+
+h1
+{
+    background-color: aqua;
+}
+li
+{
+    color: black;
+}
+h1
+{
+    margin: 2px 5px 2px 4px;
+    padding: 10px 20px 10px 30px;
+    border: solid;
+    border-left: dashed;
+    border-right: dashed;
+    border-radius: 10px;
+}
+.p1
+{
+   border-style: double;
+   border-top-style: dashed;
+   border-bottom-style: dashed;
+   border-color: rgb(126, 85, 32);
+   background-color: rgb(92, 119, 119);
+   margin: 10px;
+}
+.p2
+{
+    border-style: dotted;
+    border-top-style: double;
+    border-bottom-style: double;
+    border-color: rgb(32, 115, 126);
+    background-color: rgb(119, 104, 92);
+    margin: 10px;
+}
+.t1,.t2
+{
+    border-style: dotted;
+    border-top-style: double;
+    border-bottom-style: double;
+    border-color: rgb(32, 115, 126);
+    margin: 10px;
+}
+tr
+{
+    background-color: red;
+}
+.t2,.t1 h2
+{
+   text-decoration: underline;
+}
+img
+{
+    border-radius: 100%;
+}
+.signup1
+{
+    color: blue;
+    text-align: center;
+    font-size: xx-large;
+}
+.video
+{
+    margin: 10px 15px 10px 20px;
+    background-color: blue;
+    border: solid;
+    width: 50%;
+    font-style: italic;
+    font-size: medium;
+    text-decoration: underline;
+    padding-top: 10px;
+}
+.contect1
+{
+    margin: 100px;
+    border-style: dashed;
+    background-color: rgb(119, 104, 92);
+    font-style: inherit;
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 300px;
+}
+#id1
+{
+    border: inset;
+    border-style: dotted solid double dashed;
+    width: 50%;
+    height: 50px;
+    padding-top: 10px;
+    padding-left: 50ppx;
+    margin: 100px;
+    background-color: pink;
+}
+
